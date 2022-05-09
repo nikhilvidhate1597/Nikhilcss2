@@ -1,0 +1,40 @@
+.flex-container {
+    border: 1px solid orange;
+    width: 300px;
+    height: 180px;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.185);
+    top: 250px;
+    left: 550px;
+    text-align: center;
+    font-size: 1.5em;
+    color: orangered
+}
+
+.form-inline {
+    border: 1px solid orangered;
+    width: 200px;
+    height: 40px;
+    border-radius: 3px;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.185);
+    position: absolute;
+    top: 70px;
+    left: 60px;
+}
+
+.teck {
+    position: absolute;
+    top: 125px;
+    left: 110px;
+    color: white;
+    border: 5px solid orangered;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 80px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}

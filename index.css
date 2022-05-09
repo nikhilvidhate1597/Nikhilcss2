@@ -1,0 +1,131 @@
+.big-container {
+    width: 300px;
+    height: 550px;
+    border: 0.5px solid rgb(199, 198, 198);
+    position: absolute;
+    top: 40px;
+    left: 500px;
+    background-color: white;
+    opacity: 1;
+}
+
+b {
+    color: black;
+}
+
+.flex-container {
+    color: gray;
+    font-size: 2em;
+    position: absolute;
+    left: 30px;
+}
+
+.fa-solid.fa-plus {
+    color: white;
+    position: absolute;
+    top: 39px;
+    left: 205px;
+    font-size: 0.8em;
+}
+
+.dot {
+    height: 30px;
+    width: 30px;
+    background-color: orange;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    top: 37px;
+    left: 200px;
+}
+
+.fa-solid.fa-arrow-right {
+    color: white;
+    position: absolute;
+    top: 525px;
+    left: 233px;
+    font-size: 0.8em;
+}
+
+.dot1 {
+    height: 30px;
+    width: 30px;
+    background-color: orange;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    top: 520px;
+    left: 230px;
+}
+
+.flex-container1 {
+    width: 250px;
+    height: 50px;
+    border: 1px solid rgb(241, 179, 64);
+    position: absolute;
+    top: 100px;
+    left: 10px;
+    border-radius: 10px;
+    font: 10px left;
+    font-size: 1.5em;
+    color: rgb(170, 170, 170)
+}
+
+.flex-container2 {
+    width: 250px;
+    height: 50px;
+    border: 1px solid rgb(241, 179, 64);
+    position: absolute;
+    top: 180px;
+    left: 10px;
+    border-radius: 10px;
+    font: 10px left;
+    font-size: 1.5em;
+    color: rgb(170, 170, 170)
+}
+
+.flex-container3 {
+    width: 250px;
+    height: 50px;
+    border: 1px solid rgb(241, 179, 64);
+    position: absolute;
+    top: 280px;
+    left: 10px;
+    border-radius: 10px;
+    font: 10px left;
+    font-size: 1.5em;
+    color: rgb(170, 170, 170)
+}
+
+.flex-container4 {
+    width: 250px;
+    height: 50px;
+    border: 1px solid rgb(241, 179, 64);
+    position: absolute;
+    top: 380px;
+    left: 10px;
+    border-radius: 10px;
+    font: 10px left;
+    font-size: 1.5em;
+    color: rgb(170, 170, 170)
+}
+
+.flex-container5 {
+    width: 250px;
+    height: 50px;
+    border: 1px solid rgb(241, 179, 64);
+    position: absolute;
+    top: 480px;
+    left: 10px;
+    border-radius: 10px;
+    font: 10px left;
+    font-size: 1.5em;
+    color: rgb(170, 170, 170)
+}
+
+.box {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    position: relative;
+    top: 15px;
+}
